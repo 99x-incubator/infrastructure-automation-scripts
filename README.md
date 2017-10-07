@@ -1,6 +1,8 @@
 # AWS
 ## 1. CloudFront Setup Template
 
+This template will help you to easily host your website with your API. It will create a CloudFront distribution with S3 website bucket origin, API Gateway origin and Link with Route53 DNS record. SSL certificate will be appliled to the domain.
+
 ### How to use? 
 
 1. Create a Hosted Zone 
